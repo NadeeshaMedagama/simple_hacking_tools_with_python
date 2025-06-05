@@ -14,21 +14,21 @@ A basic script that sends repeated requests to a target IP and port to simulate 
 
 - **Usage:**  
   ```bash
-  python dos_attack.py <target_ip> <port>
+  python DOS Attack.py <target_ip> <port>
 
 ### 2. 🚨 Keylogger Script (`keylogger.py`)
 A simple keylogger that captures keyboard inputs and logs them locally.
 
 - **Usage:**  
   ```bash
-  python keylogger.py
+  python Key Logger.py
 
 ### 3. 🚨 SQL Injection Script (`sql_injection.py`)
 A basic simulation of a SQL injection attack for demonstration against a vulnerable web form.
 
 - **Usage:**  
   ```bash
-  python sql_injection.py <target_url>
+  python SQL_Injection.py <target_url>
 
 ## License
 This project is licensed under the MIT License. Please see the LICENSE file for more information.
